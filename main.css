@@ -1,0 +1,15 @@
+body {
+    background: silver
+}
+i {
+    color: silver;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.header-construction {
+    height: 4rem;
+}
